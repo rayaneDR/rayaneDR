@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+<title id="title">rayaneDR</title><desc id="desc">Useful tools. Thoughtful experiences. An independent builder.</desc>
+<rect width="1280" height="340" rx="20" fill="#171c19"/>
+<rect x="1060" y="0" width="220" height="340" rx="20" fill="#a1ffcb"/>
+<rect x="1060" y="0" width="25" height="340" fill="#a1ffcb"/>
+<g fill="none" stroke="#171c19" stroke-width="10"><path d="M1120 110h45a45 45 0 0 1 0 90h-45V110Zm0 90 72 58M1190 110h25v145h-25"/></g>
+<text x="72" y="118" font-family="Arial,Helvetica,sans-serif" font-size="60" font-weight="700" letter-spacing="-2" fill="#f5f8f5">rayaneDR<tspan fill="#a1ffcb">.</tspan></text>
+<text x="76" y="183" font-family="Arial,Helvetica,sans-serif" font-size="31" fill="#d7e1d9">Useful tools. Thoughtful experiences.</text>
+<text x="76" y="267" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#9daa9f">Web products  /  Creator workflows  /  Open-source utilities</text>
+</svg>
